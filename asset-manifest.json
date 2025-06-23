@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//isaactiza.github.io/monsters-rolodex/static/css/main.396ddf49.css",
+    "main.js": "/https//isaactiza.github.io/monsters-rolodex/static/js/main.caa23814.js",
+    "static/js/453.5d3a426d.chunk.js": "/https//isaactiza.github.io/monsters-rolodex/static/js/453.5d3a426d.chunk.js",
+    "index.html": "/https//isaactiza.github.io/monsters-rolodex/index.html",
+    "main.396ddf49.css.map": "/https//isaactiza.github.io/monsters-rolodex/static/css/main.396ddf49.css.map",
+    "main.caa23814.js.map": "/https//isaactiza.github.io/monsters-rolodex/static/js/main.caa23814.js.map",
+    "453.5d3a426d.chunk.js.map": "/https//isaactiza.github.io/monsters-rolodex/static/js/453.5d3a426d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.396ddf49.css",
+    "static/js/main.caa23814.js"
+  ]
+}
